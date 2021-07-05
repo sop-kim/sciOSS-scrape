@@ -1,17 +1,17 @@
 # sciOSS-scrape
 clone of RendalPhoenix/miscellaneous_data_scraping with extended features.
 
-##Usage
+## Usage
 Install the dependencies, then run the scripts you want using github access tokens.
 
-###githubSearch.py
+### githubSearch.py
 Search for scientific OSS repos based on search keywords and specified advanced criteria.  
 Modify the appropriate filepaths where indicated, including the path to text files containing false positive keywords. 
 
-###mergeAndDropDuplicates.py
+### mergeAndDropDuplicates.py
 Merge spreadsheets (results from githubSearch.py) into single spreadsheet with duplicate repos removed.
 Modify the appropriate filepaths where indicated.
 
-###repoDetailCounts.py
+### repoDetailCounts.py
 Scrape further details of repos in input spreadsheet. 
 Modify the appropriate filepaths where indicated. 
