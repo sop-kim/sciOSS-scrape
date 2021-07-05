@@ -1,0 +1,5 @@
+strudel.scraper
+pandas
+xlrd
+openpyxl
+PyGithub
